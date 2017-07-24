@@ -4,4 +4,15 @@
 
 # Our Partners
 
-<img src="http://www.clker.com/cliparts/X/n/R/K/6/m/blue-un-logo-vectorised-hi.png"/>
+<div style="display: inline-block; width 32%;">
+  <img style="width: 100%;" src="http://www.clker.com/cliparts/X/n/R/K/6/m/blue-un-logo-vectorised-hi.png"/>
+  <p>European Union</p>
+</div>
+<div style="display: inline-block; width 32%;">
+  <img style="width: 100%;" src="http://www.clker.com/cliparts/X/n/R/K/6/m/blue-un-logo-vectorised-hi.png"/>
+  <p>European Union</p>
+</div>
+<div style="display: inline-block; width 32%;">
+  <img style="width: 100%;" src="http://www.clker.com/cliparts/X/n/R/K/6/m/blue-un-logo-vectorised-hi.png"/>
+  <p>European Union</p>
+</div>
