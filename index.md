@@ -4,7 +4,4 @@
 
 # Our Partners
 
-https://blogs.un.org/wp-content/uploads/2017/03/logo.svg
-https://blogs.un.org/wp-content/uploads/2017/03/logo.svg
-https://blogs.un.org/wp-content/uploads/2017/03/logo.svg
-https://blogs.un.org/wp-content/uploads/2017/03/logo.svg
+![alt text](http://www.clker.com/cliparts/X/n/R/K/6/m/blue-un-logo-vectorised-hi.png)
