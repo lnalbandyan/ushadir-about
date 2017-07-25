@@ -4,15 +4,15 @@
 
 # Our Partners
 
-<div style="display: inline-block; width: 32%;">
+<div style="display: inline-block; width: 32%; padding: 0 20px;">
   <img style="width: 100%;" src="http://www.clker.com/cliparts/X/n/R/K/6/m/blue-un-logo-vectorised-hi.png"/>
-  <p>European Union</p>
+  <p style="text-align: center;">European Union</p>
 </div>
-<div style="display: inline-block; width: 32%;">
+<div style="display: inline-block; width: 32%; padding: 0 20px;">
   <img style="width: 100%;" src="http://www.clker.com/cliparts/X/n/R/K/6/m/blue-un-logo-vectorised-hi.png"/>
-  <p>European Union</p>
+  <p style="text-align: center;">European Union</p>
 </div>
-<div style="display: inline-block; width: 32%;">
+<div style="display: inline-block; width: 32%; padding: 0 20px;">
   <img style="width: 100%;" src="http://www.clker.com/cliparts/X/n/R/K/6/m/blue-un-logo-vectorised-hi.png"/>
-  <p>European Union</p>
+  <p style="text-align: center;">European Union</p>
 </div>
